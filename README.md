@@ -27,13 +27,13 @@ Quantitative background in math & statistics and internship experiences cultivat
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- ❓ I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Machine Learning and Tableau.  
   
 
-- ❓ I have completed the following projects:
+- 🔭 I have completed the following projects:
   - A
   - B
   
