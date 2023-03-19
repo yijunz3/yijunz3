@@ -1,4 +1,4 @@
-## Hey 👋, I'm Yijun Zhao!  
+### Hey 👋, I'm Yijun Zhao!  
   
 
 <a href="https://linkedin.com/in/zhao-yijun" target="_blank">
