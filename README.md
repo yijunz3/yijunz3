@@ -30,13 +30,15 @@ Quantitative background in math & statistics and internship experiences cultivat
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Machine Learning and Tableau.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ I have completed the following projects:
+  - A
+  - B
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I have a habit of collecting teddy bears on my travels, I dream of creating a teddy bear army that could conquer the world with its cuteness.
 
 
 </td><td valign="top" width="50%">
