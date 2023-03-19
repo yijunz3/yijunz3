@@ -34,7 +34,7 @@ Quantitative background in math & statistics and internship experiences cultivat
   
 
 - 🔭 I have completed the following projects:
-  - A
+  - [Covid-19 death rate analysis](https://github.com/yijunz3/stat425-final-project)
   - B
   
 
