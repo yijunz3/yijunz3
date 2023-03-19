@@ -27,15 +27,17 @@ Quantitative background in math & statistics and internship experiences cultivat
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- ❓ I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- ❓ I’m currently working on a supply chain optimization project collaborating with Doordash.  
   
 
 - 🌱 I’m currently learning Machine Learning and Tableau.  
   
 
 - 🔭 I have completed the following projects:
-  - [Covid-19 death rate analysis](https://github.com/yijunz3/stat425-final-project)
-  - B
+  - [Covid-19 Death Rate Analysis](https://github.com/yijunz3/stat425-final-project)
+  - [Indian Used-Car Price Prediction](https://github.com/yijunz3/420-squad)
+  - [Breast Cancer P.R. Status Classification](https://github.com/yijunz3/STAT432-final-project)
+  - [Fashion MNIST Classification](https://github.com/yijunz3/542-final-project)
   
 
 - ⚡ Fun fact: I have a habit of collecting teddy bears on my travels, I dream of creating a teddy bear army that could conquer the world with its cuteness.
